@@ -1,0 +1,6 @@
+{
+  "name": "PAPPU TRACTOR",
+  "description": "Professional agriculture tractor and machinery services booking and tracking app in Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
